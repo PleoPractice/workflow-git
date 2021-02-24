@@ -40,3 +40,10 @@ This document is made for practicing the git remote workflow.
 2. C#
 3. Java
 4. Rust
+
+## Real-World Objects
+
+1. TV
+2. Table
+3. Laptop
+4. Notebook
