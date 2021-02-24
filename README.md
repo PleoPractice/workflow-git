@@ -33,3 +33,10 @@ This document is made for practicing the git remote workflow.
 2. migration
 3. project
 4. thumbnail
+
+## Programming lenguages
+
+1. JavaScript
+2. C#
+3. Java
+4. Rust
